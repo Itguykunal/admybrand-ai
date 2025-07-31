@@ -5,6 +5,7 @@ import { Button } from '../ui/Button'
 import { Play, Sparkles, ArrowRight } from 'lucide-react'
 
 export const Hero = () => {
+  const [, setShowVideo] = useState(false)
 
   return (
     <section id="hero" className="relative min-h-screen flex items-center justify-center overflow-hidden bg-gradient-to-br from-primary-50 via-white to-neutral-50">
