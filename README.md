@@ -1,49 +1,5 @@
 # ADmyBRAND AI Suite Landing Page
 
-## 📁 Project Structure
-
-```
-admybrand-ai-suite-landing/
-├── 📄 package.json
-├── 📄 next.config.js
-├── 📄 tailwind.config.js
-├── 📄 tsconfig.json
-├── 📄 README.md
-├── 📁 public/
-│   ├── 🖼️ hero-bg.jpg
-│   ├── 🖼️ logo.svg
-│   └── 📁 icons/
-├── 📁 src/
-│   ├── 📁 app/
-│   │   ├── 📄 layout.tsx
-│   │   ├── 📄 page.tsx
-│   │   ├── 📄 globals.css
-│   │   └── 📁 components/
-│   ├── 📁 components/
-│   │   ├── 📁 ui/
-│   │   │   ├── 📄 Button.tsx
-│   │   │   ├── 📄 Card.tsx
-│   │   │   ├── 📄 Modal.tsx
-│   │   │   ├── 📄 Input.tsx
-│   │   │   ├── 📄 Badge.tsx
-│   │   │   └── 📄 Container.tsx
-│   │   ├── 📁 sections/
-│   │   │   ├── 📄 Hero.tsx
-│   │   │   ├── 📄 Features.tsx
-│   │   │   ├── 📄 Pricing.tsx
-│   │   │   ├── 📄 Testimonials.tsx
-│   │   │   ├── 📄 FAQ.tsx
-│   │   │   └── 📄 Footer.tsx
-│   │   └── 📁 forms/
-│   │       └── 📄 ContactForm.tsx
-│   ├── 📁 lib/
-│   │   ├── 📄 utils.ts
-│   │   └── 📄 constants.ts
-│   └── 📁 types/
-│       └── 📄 index.ts
-└── 📁 .next/
-```
-
 ## 🚀 Quick Setup Commands
 
 ```bash
