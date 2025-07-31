@@ -122,5 +122,3 @@ lg: 1024px  /* Small desktops */
 xl: 1280px  /* Large desktops */
 2xl: 1536px /* Extra large screens */
 ```
-
-Ready to start coding? Let me know which component you'd like me to build first! 🎨
