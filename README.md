@@ -4,7 +4,7 @@
 
 ```bash
 # Create Next.js project
-npx create-next-app@latest admybrand-ai-suite-landing --typescript --tailwind --eslint --app
+npx create-next-app@latest admybrand-ai --typescript --tailwind --eslint --app
 
 # Navigate to project
 cd admybrand-ai-suite-landing
@@ -48,7 +48,7 @@ npm run dev
 ## 📋 Component Checklist
 
 ### ✅ UI Components (8+ Required)
-- [ ] Button (variants: primary, secondary, outline)
+- [✅] Button (variants: primary, secondary, outline)
 - [ ] Card (with glassmorphism effect)
 - [ ] Modal (for contact/demo)
 - [ ] Input (form elements)
@@ -85,8 +85,6 @@ npm run dev
 
 ### 🎁 Bonus Features
 - [ ] Interactive pricing calculator
-- [ ] Demo video/animation
-- [ ] Dark/light mode toggle
 - [ ] Advanced animations (Framer Motion)
 - [ ] Performance optimization
 
