@@ -36,7 +36,7 @@ export default function Testimonials() {
   }, [])
 
   return (
-    <section className="py-24 bg-neutral-100 dark:bg-neutral-900">
+    <section id="testimonials" className="py-24 bg-neutral-100 dark:bg-neutral-900">
       <div className="container mx-auto px-4">
         <div className="text-center mb-12">
           <h2 className="text-4xl font-bold mb-4 text-neutral-900 dark:text-neutral-100">
